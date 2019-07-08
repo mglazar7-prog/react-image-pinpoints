@@ -22,9 +22,13 @@
     "react",
     "component",
     "image",
-    "hotspot",
+    "picture",
+    "photo",
+    "control",
     "zoom",
-    "controller"
+    "magnify",
+    "minimap",
+    "hotspot"
   ],
   "author": "mglazar7-prog <mglazar7@gmail.com>",
   "license": "MIT",
