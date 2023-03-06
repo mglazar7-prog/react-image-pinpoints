@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.1](https://github.com/mglazar7-prog/react-image-pinpoints/compare/v2.1.0...v2.1.1) (2023-03-06)
+
+
+### Bug Fixes
+
+* branch name ([aabf2fa](https://github.com/mglazar7-prog/react-image-pinpoints/commit/aabf2fad24a3325cb53eb7dc17b98a800955b3fe))
+
 ## [2.1.0](https://github.com/mglazar7-prog/react-image-pinpoints/compare/v2.0.0...v2.1.0) (2023-03-06)
 
 
