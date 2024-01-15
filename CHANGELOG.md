@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.4](https://github.com/mglazar7-prog/react-image-pinpoints/compare/v2.2.3...v2.2.4) (2024-01-15)
+
+
+### Bug Fixes
+
+* test node 20 ([4128d41](https://github.com/mglazar7-prog/react-image-pinpoints/commit/4128d416ed1c4267545a0236b8d0dbc316716cd8))
+
 ## [2.2.3](https://github.com/mglazar7-prog/react-image-pinpoints/compare/v2.2.2...v2.2.3) (2024-01-12)
 
 
